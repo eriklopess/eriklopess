@@ -40,7 +40,7 @@
          
   </div>
  
-### :smiley: - Social:
+### :smiley: - Social
 
 <div align="center" style="display: inline_block">
 <a href="https://www.linkedin.com/in/eriklopesdeoliveira/">
