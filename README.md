@@ -41,7 +41,7 @@
 
 <div align="center" style="display: inline_block">
 <a href="https://www.linkedin.com/in/eriklopesdeoliveira/">
-<img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+<img alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 </div>
 <hr>
