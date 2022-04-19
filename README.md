@@ -50,7 +50,7 @@
 
 <img alt="TypeScript" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriklopess&layout=compact&show_icons=true&theme=tokyonight">
  
-<img alt="TypeScript" height="200" width="550" src="https://github-readme-stats.vercel.app/api?username=eriklopess&show_icons=true&theme=tokyonight">
+<img alt="TypeScript" height="200" width="480" src="https://github-readme-stats.vercel.app/api?username=eriklopess&show_icons=true&theme=tokyonight">
  
 </div>
 
