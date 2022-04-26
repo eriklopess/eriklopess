@@ -6,7 +6,7 @@
 
  - 😊 - I'm Erik Lopes! <br>
  - :earth_americas: - I'm from Paraná, Brazil. <br>
- - 💻 - I'm a web front-end developer and future full-stack developer.<br>
+ - 💻 - I'm a web full-stack developer.<br>
  - :books: - I'm learning web development at Trybe 💚. <br>
  
 
