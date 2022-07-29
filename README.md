@@ -26,13 +26,13 @@ Desenvolvedor de Software
 </p>
 
 
-### Socials
+### Rede Sociais
 
 <p align="left"> <a href="https://www.github.com/eriklopess" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eriklopesdeoliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/eriklopess"><img src="https://github-readme-stats.vercel.app/api?username=eriklopess&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="eriklopess's GitHub stats" /></a>
 
