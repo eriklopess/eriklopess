@@ -6,7 +6,7 @@ Desenvolvedor de Software
 
 * 🌍  Eu moro em São José dos Pinhais, Paraná.
 * ✉️  Você pode me contatar em: [erik.lopesoliveira2019@gmail.com](mailto:erik.lopesoliveira2019@gmail.com)
-* 🧠  Estou aprendendo C# e dotnet
+* 🧠  Estou aprendendo Java e SpringBoot
 
 ### Habilidades
 
