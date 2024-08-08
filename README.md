@@ -4,7 +4,7 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Engenheiro de Segurança | AppSec
 -----------------------
 
-* 🌍  Eu moro em São José dos Pinhais, Paraná.
+* 🌍  Eu moro em Paraná.
 * ✉️  Você pode me contatar em: [erik.lopesoliveira2019@gmail.com](mailto:erik.lopesoliveira2019@gmail.com)
 
 ### Rede Sociais
