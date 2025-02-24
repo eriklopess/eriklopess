@@ -1,13 +1,13 @@
-Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Erik Lopes
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Erik Lopes
 ==================================================================================================================================
 
-Engenheiro de Segurança | AppSec
+Security Engineer | AppSec
 -----------------------
 
-* 🌍  Eu moro em Paraná.
-* ✉️  Você pode me contatar em: [erik.lopesoliveira2019@gmail.com](mailto:erik.lopesoliveira2019@gmail.com)
+* 🌍  I live in Brazil.
+* ✉️  You can contact me in: [erik.lopesoliveira2019@gmail.com](mailto:erik.lopesoliveira2019@gmail.com)
 
-### Rede Sociais
+### Social Media
 
 <p align="left"> <a href="https://www.github.com/eriklopess" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eriklopesdeoliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
