@@ -5,7 +5,7 @@ Security Engineer | AppSec
 -----------------------
 
 * 🌍  I live in Brazil.
-* 🖥️  I work in Stone Payments as Security engineer and I develop some app's to world 
+* 🖥️  I work in Stone Payments as Security engineer and I develop some apps to the world 
 * ✉️  You can contact me in: [erik.lopesoliveira2019@gmail.com](mailto:erik.lopesoliveira2019@gmail.com)
 
 ### Social Media
